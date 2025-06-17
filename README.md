@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Selikem Amegashie (selicode1)!
+# 👋 Hi, I'm Selikem (selicode1)!
 
 **Full Stack Developer** | UI/UX Enthusiast
 
